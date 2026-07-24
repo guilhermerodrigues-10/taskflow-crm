@@ -1,0 +1,5 @@
+{
+  "name": "TaskFlow CRM",
+  "description": "Sistema de gestão de projetos e tarefas, com quadro Kanban, equipe, biblioteca de assets e relatórios.",
+  "requestFramePermissions": []
+}
